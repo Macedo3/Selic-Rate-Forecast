@@ -115,6 +115,30 @@ The project utilizes the following libraries:
 
 ## 📜 References
 
+Bibliografia
+Banco Central do Brasil. Disponível em: <https://www.bcb.gov.br/estatisticas/detalhamentoGrafico/graficosestatisticas/taxadesocupacao>. Acesso em: 7 dez. 2023a.
+
+
+Banco Central do Brasil. Disponível em: <https://www.bcb.gov.br/estatisticas/detalhamentoGrafico/graficosestatisticas/precos>. Acesso em: 7 dez. 2023b.
+
+
+Banco Central do Brasil. Disponível em: <https://www.bcb.gov.br/estatisticas/detalhamentoGrafico/graficosestatisticas/metaselic>. Acesso em: 7 dez. 2023c.
+
+
+Banco Central do Brasil. Disponível em: <https://www.bcb.gov.br/estatisticas/detalhamentoGrafico/graficosestatisticas/ibcbr>. Acesso em: 7 dez. 2023d.
+
+
+Banco Central do Brasil. Disponível em: <https://www.bcb.gov.br/estatisticas/detalhamentoGrafico/graficosestatisticas/cambio>. Acesso em: 7 dez. 2023e.
+
+
+DE GEOGRAFIA E ESTATÍSTICA, I. B. Inflação. Disponível em: <https://www.ibge.gov.br/explica/inflacao.php>. Acesso em: 7 dez. 2023.
+
+
+Preços Históricos USD/BRL - Investing.com. Disponível em: <https://br.investing.com/currencies/usd-brl-historical-data>. Acesso em: 7 dez. 2023.
+
+
+RAMIREZ, P. Petróleo Brent Futuros Preços Hoje - Investing.com. Disponível em: <https://br.investing.com/commodities/brent-oil>. Acesso em: 7 dez. 2023.
+
 
 
 ## 📋 License
