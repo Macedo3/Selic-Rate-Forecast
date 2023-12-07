@@ -47,13 +47,13 @@ This project stands as an amalgamation of economic domain expertise and machine 
 ### Directory Structure
 
 ```
-├── Data
+├── data
 │   ├── df_mensal.xlsx
 │   ├── taxas_de_juros.xlsx
 │   └── USD_BRL Dados Históricos.xlsx
 ├── model
 │   └── model.ipynb
-├── Analysis
+├── analysis
 │   └── exploratory-analysis.ipynb
 ├── README.md
 └── LICENSE
